@@ -1,2 +1,2 @@
 # DERİN ÖĞRENME VE GÖRÜNTÜ İŞLEME TABANLI GERÇEK ZAMANLI TÜRK İŞARET DİLİ ÇEVİRİ SİSTEMİ
-Bu proje, Türk İşaret Dili'ni gerçek zamanlı olarak algılayıp metne veya sese çeviren, derin öğrenme ve görüntü işleme tabanlı bir sistemdir. Gündelik hayatta işitme engelli bireylerle iletişim bariyerlerini kaldırmayı hedefleyen bu sistem, kamera üzerinden alınan görüntüleri anlık olarak işleyerek anlamlı cümleler oluşturur.
+Türk İşaret Dili'ni gerçek zamanlı olarak algılayıp metne veya sese çeviren, derin öğrenme ve görüntü işleme tabanlı bir sistemdir. Gündelik hayatta işitme engelli bireylerle iletişim bariyerlerini kaldırmayı hedefleyen bu sistem, kamera üzerinden alınan görüntüleri anlık olarak işleyerek anlamlı cümleler oluşturur.
